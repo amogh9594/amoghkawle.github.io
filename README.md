@@ -5,4 +5,5 @@
 [Kaggle](https://www.kaggle.com/amogh0810) <br/>
 [GitHub](https://github.com/amogh9594) <br/>
 [Contact For Freelancing](https://www.upwork.com/o/profiles/users/~01c846777141d79190/) <br/><br/>
+## DESCRIPTION
 [Opencv Image Processing Project](https://blurplate.herokuapp.com/) 
